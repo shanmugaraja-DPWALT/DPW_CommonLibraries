@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DPWEntityLibrary", "DPWEntityLibrary\DPWEntityLibrary.csproj", "{26BBE476-E164-4BC7-8E6E-68EAF13F70EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GOGCoreDataLayer", "GOGCoreDataLayer\GOGCoreDataLayer.csproj", "{EB6C40A8-FE36-4330-9BC5-1D64CFC43269}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GOGCoreGeneralHelperLibrary", "GOGCoreGeneralHelperLibrary\GOGCoreGeneralHelperLibrary.csproj", "{1390F980-045A-4D00-817C-97540620A8C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GOGCoreDataTransferLibrary", "GOGCoreFileTransferLibrary\GOGCoreDataTransferLibrary.csproj", "{D83AED3F-7505-4AA4-822D-A6BBBDF2239F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26BBE476-E164-4BC7-8E6E-68EAF13F70EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BBE476-E164-4BC7-8E6E-68EAF13F70EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BBE476-E164-4BC7-8E6E-68EAF13F70EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BBE476-E164-4BC7-8E6E-68EAF13F70EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6C40A8-FE36-4330-9BC5-1D64CFC43269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6C40A8-FE36-4330-9BC5-1D64CFC43269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6C40A8-FE36-4330-9BC5-1D64CFC43269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6C40A8-FE36-4330-9BC5-1D64CFC43269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1390F980-045A-4D00-817C-97540620A8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1390F980-045A-4D00-817C-97540620A8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1390F980-045A-4D00-817C-97540620A8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1390F980-045A-4D00-817C-97540620A8C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83AED3F-7505-4AA4-822D-A6BBBDF2239F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83AED3F-7505-4AA4-822D-A6BBBDF2239F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83AED3F-7505-4AA4-822D-A6BBBDF2239F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83AED3F-7505-4AA4-822D-A6BBBDF2239F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827725F2-949B-4690-BB73-43B233B2404F}
+	EndGlobalSection
+EndGlobal
